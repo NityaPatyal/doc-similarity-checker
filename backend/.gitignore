@@ -1,0 +1,13 @@
+
+# dependencies
+/node_modules
+
+# logs
+/logs
+
+# environment variables
+.env
+output*
+sample*
+
+
